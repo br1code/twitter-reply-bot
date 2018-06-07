@@ -1,0 +1,14 @@
+{
+  "name": "twitter-reply-bot",
+  "version": "1.0.0",
+  "description": "A simple twitter bot to reply tweets!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "br1code",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
